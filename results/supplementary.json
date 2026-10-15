@@ -1,0 +1,25 @@
+{
+  "unigram": {
+    "test_loss": 5.240407466888428,
+    "test_perplexity": 188.74699488973928,
+    "test_accuracy": 0.1464088410139084
+  },
+  "models": {
+    "SimpleRNN": {
+      "known_target_accuracy": 0.13268608414239483,
+      "known_targets": 2781
+    },
+    "BidirectionalRNN": {
+      "known_target_accuracy": 0.1387989931679252,
+      "known_targets": 2781
+    },
+    "LSTM": {
+      "known_target_accuracy": 0.14563106796116504,
+      "known_targets": 2781
+    },
+    "GRU": {
+      "known_target_accuracy": 0.14203523912261776,
+      "known_targets": 2781
+    }
+  }
+}

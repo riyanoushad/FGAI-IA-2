@@ -1,0 +1,42 @@
+[
+  {
+    "model": "SimpleRNN",
+    "parameters": 318554,
+    "best_epoch": 4,
+    "validation_loss": 4.5841540628538056,
+    "test_loss": 4.544050559739967,
+    "test_perplexity": 94.07106993532153,
+    "test_accuracy": 0.19920196439533455,
+    "training_seconds": 28.86064620000252
+  },
+  {
+    "model": "BidirectionalRNN",
+    "parameters": 514778,
+    "best_epoch": 3,
+    "validation_loss": 4.695207089268067,
+    "test_loss": 4.686477483160441,
+    "test_perplexity": 108.47041718817123,
+    "test_accuracy": 0.1921424186617557,
+    "training_seconds": 48.35700989999168
+  },
+  {
+    "model": "LSTM",
+    "parameters": 365210,
+    "best_epoch": 7,
+    "validation_loss": 4.5358888217924855,
+    "test_loss": 4.52333283351198,
+    "test_perplexity": 92.14218134856837,
+    "test_accuracy": 0.21086556169429096,
+    "training_seconds": 44.9209136999998
+  },
+  {
+    "model": "GRU",
+    "parameters": 349658,
+    "best_epoch": 4,
+    "validation_loss": 4.59008221250024,
+    "test_loss": 4.545301443232284,
+    "test_perplexity": 94.18881551145385,
+    "test_accuracy": 0.20503376304481277,
+    "training_seconds": 53.80567200000223
+  }
+]

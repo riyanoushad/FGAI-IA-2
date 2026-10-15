@@ -1,0 +1,867 @@
+# Generated text samples
+
+All text is verbatim model output. Each continuation contains 60 generated words; the seed is listed separately.
+
+## SimpleRNN | T=0.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+the night of the world of the dark and the time traveller of the time traveller were that as the time traveller and had been the editor and the little people of the world i was not the time traveller had think at the time traveller came the time traveller had been the morlocks and so forth i could not
+
+Distinct-1: 0.433; Distinct-2: 0.695.
+
+## SimpleRNN | T=0.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+the same that i did not a certain man i lit this long way and the beautiful of the morlocks and in the shadow of the dark of the hill of these little people and the morlocks i judged to be that it is the mechanism of my arm i had not a little of man and i had come
+
+Distinct-1: 0.567; Distinct-2: 0.898.
+
+## SimpleRNN | T=0.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+the little people and my ears and the machine of the time machine and his hands and that i was very late and was the machine of the time traveller i saw the time machine and i had been to the little lawn i was in the time traveller of the morlocks and in the time machine and it was
+
+Distinct-1: 0.417; Distinct-2: 0.729.
+
+## SimpleRNN | T=1.0 | Replicate 0
+
+Seed: `the time traveller was`
+
+animals night a chair but in as dark and gently harsh force of the particularly i cannot further upon the reason sphinx they had been enter such me under the foolish or well which i fancied at them where this judge of rust and the big thing i twigs a fire while as it not a piece of granite on
+
+Distinct-1: 0.817; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.0 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated the means of them in perfect soft hall i they were was excitement and watched affection at opened before and security did shadow enough off when the pedestal tables without myself about me and sexes the speak the presence floor in problem is almost like me from the sexes my hundred later go if i very delightful incredulous him
+
+Distinct-1: 0.833; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.0 | Replicate 2
+
+Seed: `the time traveller was`
+
+nearly a queer telling less over and the sun over the balance i fancied his better slight life possibly haggard but they quartz all me in which too then i will instance like my machine and for with appeared to stone to his fear as in the hill hill of decay morlocks the thing from sight seemed to warn the
+
+Distinct-1: 0.800; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+animals night a running me in upon dark themselves gently harsh force of across particularly slow thing further upon the reason sphinx they had been enter such me under remarkable foolish or also which going how such lever where began judge think hours which porcelain me alone off twigs a fire while like unknown and so under had great feel
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated the means altogether lips lit perfect floor went went they this eyes excitement particularly watched affection years opened before vividly nothing did shadow sticks off when or every tables without rising moves much greatly sexes the speak the don't floor fruits problem is exploration like into my arm before my hundred later go if i very language sufficient looking
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+among words with museum my bare bronze real hands over there was not and his better slight rescue possibly haggard steadfastly evening quartz what me in which followed then growing be instance like my machine face for building appeared cheek stone me series dimension as in uncomfortable plain happened of decay surrounded and high light alone seemed to warn what
+
+Distinct-1: 0.917; Distinct-2: 1.000.
+
+## SimpleRNN | T=0.5 | Replicate 0
+
+Seed: `i looked around me`
+
+the morlocks of the morlocks of the morlocks i was a small times and the fire of the darkness i thought of the time traveller i don't to be more to be that the building of the morlocks was not the time traveller i was the time traveller was the time traveller i saw the end of the great hall
+
+Distinct-1: 0.417; Distinct-2: 0.661.
+
+## SimpleRNN | T=0.5 | Replicate 1
+
+Seed: `i looked around me`
+
+at the time i pushed the little people in the time traveller i was to my iron mace i found the time traveller i struck the little people that the palace of the thing and the morlocks of the morlocks of the time traveller once my head and then i could see a little way as i was a large
+
+Distinct-1: 0.517; Distinct-2: 0.780.
+
+## SimpleRNN | T=0.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and as i could see it was a small second and then i remember his eyes of the night and the possibility of the dark of the morlocks of the world was the little people i felt a little way of the same the world of the morlocks and i was to the time traveller was a little people so
+
+Distinct-1: 0.500; Distinct-2: 0.831.
+
+## SimpleRNN | T=1.0 | Replicate 0
+
+Seed: `i looked around me`
+
+the morlocks on of it in the love of the morlocks that times the used in the dusk upon night more then i pass buildings my white the rest of an proceeding of the building going the thing was not my hands night i was wasting and these number when we have at china and this leaves sunlight are that
+
+Distinct-1: 0.700; Distinct-2: 0.949.
+
+## SimpleRNN | T=1.0 | Replicate 1
+
+Seed: `i looked around me`
+
+at a and i pushed the little people in no impression at soft time i should fell his hand into the taking of a little hours had him that my circumstances i thought to the end was they seemed built me you pushed it and my neck determined times than a great series such only as i went down to
+
+Distinct-1: 0.783; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.0 | Replicate 2
+
+Seed: `i looked around me`
+
+and as larger doing among it the morlocks of the time faint smiled there his eyes of the wane he travelled to me where upon me for her days had gone the same i more to look how sufficient round the like i be one to intense graceful and terror i might may see them again at the machine it
+
+Distinct-1: 0.783; Distinct-2: 0.983.
+
+## SimpleRNN | T=1.5 | Replicate 0
+
+Seed: `i looked around me`
+
+the addition look grew it were reason beginnings outside across placed an times ventilation used in the dusk upon night more then sunset pass buildings when and the rest of an proceeding of survival building going seven things i'm nevertheless leading cannot night good but the night these noise you will myself at china killing this leaves sunlight are that
+
+Distinct-1: 0.883; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 1
+
+Seed: `i looked around me`
+
+at windows and it pushed war and ruins in no impression at soft time out absence fell sometimes my horizon lay taking off a little hours had him louder upon them bent pipe she a trap was they none right me you pushed it once my neck determined times than four great series such only wall probably things comes name
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and explore larger doing among it the plain animal ultimately suddenly faint smiled entirely his eyes of the wane he humanity to me overworlders upon three points going evident had gone the same continued more band and dim sufficient round animals like laughing moving call at intense graceful and terror proper having words see them jar in presentation and it
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## SimpleRNN | T=0.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+and the time traveller i felt a little of them and there is a little way i began to the first i had to be than the same in the world of the bushes had been such time and that would be in the white sphinx and the time traveller and turned the sun it was the time traveller i
+
+Distinct-1: 0.550; Distinct-2: 0.864.
+
+## SimpleRNN | T=0.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+and i was to be a new of the earth i have been i went on the time traveller was at the time traveller turned and that i had to be a moment they were i think a moment i was i have been a match of the big i was a certain of the time traveller was the little
+
+Distinct-1: 0.467; Distinct-2: 0.763.
+
+## SimpleRNN | T=0.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+and the second and i had to be very young man and can i had not a little of my shoes i had been very young man and went on the time traveller came in the world i was a little way and and the world of the darkness i had no doubt and i tried to me and the
+
+Distinct-1: 0.533; Distinct-2: 0.814.
+
+## SimpleRNN | T=1.0 | Replicate 0
+
+Seed: `the machine was standing`
+
+we should have only the true came an to push were very attention i went on how that there were came said at least to than these ghosts in among the even the in time travelling i had see put would be figure the white flesh but we are off and turned upon the darkness the known and with it
+
+Distinct-1: 0.800; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.0 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried to me for new where the fire i realised about i went on this spread for no great little group of london orange that hung my reach and a breathing they your i think against her and in due and how through the time traveller what's must have been and looked to them pointed to me was
+
+Distinct-1: 0.800; Distinct-2: 0.983.
+
+## SimpleRNN | T=1.0 | Replicate 2
+
+Seed: `the machine was standing`
+
+of touch sensation and i had to take what of but the other sensations seemed to a under of my shoes security make indeed and into light i went on nearly a little without in that are as the object of a approaching and side by the you far they were no occurred eyes grew most upon a rare of
+
+Distinct-1: 0.783; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+we eastward quietly over one's true week an to abundant were there behind i went among how with our marble came said filed to judge than these inadequacy in among cut even tree in a grotesque current its bare put would may figure intellectual without beyond shone disordered model off would sentences upon their vaguely the known faster at it
+
+Distinct-1: 0.933; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i learnt down and the new since and i held out of these moment and this spread solemnly increased at myself flowers a london orange that hung done futurity interpretation a breathing they throat i either against her men in due and how through the time horizon shadows must than breaking and certainly to swung pointed though seemed little
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## SimpleRNN | T=1.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+moves touch perhaps and one increasing though convenient they of but watched can may descend line vividly under because that strange security dim indeed though into light put that it must secure into without the underworld are explorations him read close terror approaching and side your the you far they minute's she occurred my branches tried upon a rare started
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=0.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+the night of the wood in this dark i saw the time machine and i had been to tell the reason of a kind of the editor and the white sphinx of the world and how i had not this that is it was the big of the light of the same people and they would have been we went
+
+Distinct-1: 0.633; Distinct-2: 0.915.
+
+## BidirectionalRNN | T=0.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+the same of the white sphinx and the end i had not a little people of the little opened and the little people of the earth when i had to the rising was the flickering and the feeling of the floor in the presence of the silent man was the great hall i was the other of the doorway and
+
+Distinct-1: 0.500; Distinct-2: 0.780.
+
+## BidirectionalRNN | T=0.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+the little people of my loss and the sun i had not been the same and the same of the model and then i was a machine to a little people of the bright machine and i had not been stone to me i had anticipated i heard to of the morlocks and i am no great was in the
+
+Distinct-1: 0.483; Distinct-2: 0.814.
+
+## BidirectionalRNN | T=1.0 | Replicate 0
+
+Seed: `the time traveller was`
+
+utter night a general i sat upon dark and bright harsh force of humanity particularly i cannot that as the reason sphinx come towards this light one me to me in the same which seemed to make them where this judge think it was even big increase the twigs a fire and as you not readjust down above the thing
+
+Distinct-1: 0.833; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.0 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated the means from her you feared a line i they this thought of the laboratory affection at opened from the children did shadow sticks off when or every tables without myself they were no sexes of speak the hailstones floor in problem is exploration like into my arm before my hundred and it if i very our incredulous hand
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.0 | Replicate 2
+
+Seed: `the time traveller was`
+
+among a less museum my loss and fro hands over is and i made his better slight the time machine has me then what me in which once then i remember feel like my machine seemed up with appeared to figure me when i halted anticipated i heard happened of decay and the high light of what and warn what
+
+Distinct-1: 0.750; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+utter night a running me in upon dark themselves bright harsh force of across particularly visible were further as such reason sphinx come towards this between one sentences the remarkable foolish or certainly which struck how such lever where began judge think hours which porcelain imagine heaps beating twigs a fire while like unknown visible or so seriously great feel
+
+Distinct-1: 0.917; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated by towards altogether lips you feared floor went went they strides was excitement particularly watched affection waste opened before vividly nothing did shadow first off when old every tables without rising moves wine gravitation sexes the speak the don't floor in problem above exploration like into my arm before my hundred fallen at the other very language incredulous chair
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+among spasmodic there ago my bare twenty they hands over is lack aside and his better slight rescue possibly haggard head evening quartz what me in which faded then growing be instance like my machine section up with appeared cheek stone to series dimension as anticipated uncomfortable plain happened of appreciate surrounded suspect high light alone seemed to warn what
+
+Distinct-1: 0.950; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=0.5 | Replicate 0
+
+Seed: `i looked around me`
+
+in my head grew it was the great hall i sat to be down the fire the sun you can you are some soon as i went on a question i was not people which going the little people i could not find the time machine and these see you will have at last of this thing sunlight the medical
+
+Distinct-1: 0.783; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=0.5 | Replicate 1
+
+Seed: `i looked around me`
+
+but i thought it was the little people in the place and i felt to my iron people in the laboratory taking the little people were a creature to the palace of the well and the morlocks of the hailstones and you will it had my hands and then i could see them to the wall of the morlocks to
+
+Distinct-1: 0.567; Distinct-2: 0.864.
+
+## BidirectionalRNN | T=0.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and as it was still it the editor of the time machine the sun was the same of the doorway was a colossal of the blackness of the new had gone the same i had not the little people of the dimness the end and animated enough i had been to be that the psychologist was a little people of
+
+Distinct-1: 0.533; Distinct-2: 0.847.
+
+## BidirectionalRNN | T=1.0 | Replicate 0
+
+Seed: `i looked around me`
+
+the thought of an it in my head outside across you so times ventilation to go the dusk upon the more then beauty any buildings when and the rest of my own of the building going the other was only my hands night i was no signs of my own staggered the provincial china for this leaves sunlight are that
+
+Distinct-1: 0.767; Distinct-2: 0.966.
+
+## BidirectionalRNN | T=1.0 | Replicate 1
+
+Seed: `i looked around me`
+
+but as and it struck war and as in part to this soft swung out of iron people was the laboratory taking smiling myself struck were had him to my circumstances i thought to a trap was no none of me you think it simply my neck determined times than four o'clock gave such only wall thing alone down about
+
+Distinct-1: 0.850; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.0 | Replicate 2
+
+Seed: `i looked around me`
+
+and as larger getting will it still to express to my pocket the entirely bright eyes of the edge and ran to me where upon night the parapet evident had gone the same i suggested had long since sufficient round me like the end and animated enough graceful and terror i might may see them was a presentation and it
+
+Distinct-1: 0.767; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 0
+
+Seed: `i looked around me`
+
+the thought look grew it in reason beginnings psychologist's across you so times ventilation used in the dusk upon an more then beauty any buildings when and the rest of movements and cold of building going seven blank me ages leading cannot night good but the time these circle you staggered the at china killing this leaves sunlight are that
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 1
+
+Seed: `i looked around me`
+
+held as and it pushed war doors ruins in least suggested at soft lower out my iron sometimes save the laboratory taking smiling a struck hours had him incredible sticks my centre pipe she a trap at last none right me you led end home my neck determined times our four great revolution such only wall probably self places name
+
+Distinct-1: 0.933; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and explore larger getting among it the plain ten smoke is faint the entirely his eyes of the direction he humanity to me overworlders upon three points unknown evident had gone here near i suggested cheerfully am ancestors sufficient round animals like laughing moving call to intense graceful and terror proper having words see them jar at presentation and it
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=0.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+of the time machine i felt that i had followed the space of the morlocks i felt that machine i came to the little people i saw the same descendants of the well in a moment i had not been would be of the white sphinx and the model of the little people of the method and as i had
+
+Distinct-1: 0.533; Distinct-2: 0.797.
+
+## BidirectionalRNN | T=0.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried to each the new of the fire i saw the time traveller and the most was very great but i thought this a kind of my reach and security i had no signs of a moment i did not a queer of the time machine i must have been and the throb of the end and the
+
+Distinct-1: 0.633; Distinct-2: 0.915.
+
+## BidirectionalRNN | T=0.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+of the second and i had not been what of the old of the change of a kind of the shoes security i did not see and i went out of a moment i felt that it was the laboratory on my mind and the great hall you the thing of the new eyes grew most i was a second
+
+Distinct-1: 0.600; Distinct-2: 0.898.
+
+## BidirectionalRNN | T=1.0 | Replicate 0
+
+Seed: `the machine was standing`
+
+we should have no flicker through his eyes to abundant were very behind i went on to the white marble came said from the two than the inadequacy in among thunderstorm even the in little doses there its before put would seemed in the white future and tried of the underworld and went up it the known fell at it
+
+Distinct-1: 0.783; Distinct-2: 0.983.
+
+## BidirectionalRNN | T=1.0 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried down that the new for the fire i saw about i went on my spread was no great of them in this orange previous vermin my lips interpretation a breathing they throat i did not her men in due and how through the time horizon shadows i than among first ideas to swung pointed and seemed little
+
+Distinct-1: 0.833; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.0 | Replicate 2
+
+Seed: `the machine was standing`
+
+of course perhaps and i had to take what of but watched can may descend you was full because my shoes security dim indeed of white light of that it was secure into without the underworld and as the read there came approaching and side by the you seemed that my she occurred my hands inclined upon a rare of
+
+Distinct-1: 0.783; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+we walls quietly only one's through here an air abundant were looking behind strange clear race yet grew molecule putting came said filed to judge than thud inadequacy in among thunderstorm even tree in except face reminded its bare put would may figure intellectual all beyond shone disordered kept off machines already good faintness it unreal known faster at it
+
+Distinct-1: 0.967; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried down that the new for since i held out about hidden would be this spread solemnly need at little flowers thought london orange previous strike done came interpretation a breathing they throat species either against years men in due face after through the flaring horizon shadows must than breaking and certainly to swung pointed occasionally closed calm
+
+Distinct-1: 0.950; Distinct-2: 1.000.
+
+## BidirectionalRNN | T=1.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+of touch second and i had though convenient what of but watched can may descend line vividly under because saw strange security dim indeed though into light quietly that it nearly got into without colourless judged convenient explorations places read close terror approaching and side your the you far they my she occurred my grew most upon a rare started
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## LSTM | T=0.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+in my pocket a minute perhaps as i felt to me but a word of the thing to be the time traveller had been a certain man and the time traveller looked round me i was not a profound way to think it was the big machine the time machine had been a little people of a match and the
+
+Distinct-1: 0.617; Distinct-2: 0.898.
+
+## LSTM | T=0.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+in the time machine i was a certain man i had seen a little people to make a minute of those of an shadow of the dark and there was a couple of the sun and the time traveller was not said the presence of the little people was even my hundred and then if i felt a little people
+
+Distinct-1: 0.583; Distinct-2: 0.881.
+
+## LSTM | T=0.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+in a kind of my loss and the sun was a moment i had seen to the same time machine i could not what from the machine to call to be that i had seen a little people of them and then i did not a match and then of the morlocks and in the time machine and it was
+
+Distinct-1: 0.550; Distinct-2: 0.932.
+
+## LSTM | T=1.0 | Replicate 0
+
+Seed: `the time traveller was`
+
+animals upon a few resemblance in as dark and gently harsh force of the particularly soft were further as the reason of a peculiar well when one steadily under the heat or certainly which i fancied at them however far less think at first porcelain of this beating twigs a fire and as looking and so down i could feel
+
+Distinct-1: 0.800; Distinct-2: 1.000.
+
+## LSTM | T=1.0 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated the means of them under the floor hall i they were was gone particularly watched affection at first before me back i did not off when the pedestal almost without rising never of no sexes the speak the hailstones floor in problem of exploration like into my arm before my hundred and decay if i very i had hand
+
+Distinct-1: 0.800; Distinct-2: 1.000.
+
+## LSTM | T=1.0 | Replicate 2
+
+Seed: `the time traveller was`
+
+nearly a large across my bare and drove hands over the balance of the sheer better people was possibly as i saw the solution of a machine followed then i remember instance towards my machine and up with appeared to stone me but i believe in the weak happened of decay that the thing light alone upon and it was
+
+Distinct-1: 0.767; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+animals night a running resemblance in upon dark and gently harsh force of evening particularly slow were further as such reason sphinx they had been enter such steadily under remarkable foolish or certainly which struck how such lever where far judge think hours into the big thing beating twigs a fire while like unknown profound place under i could feel
+
+Distinct-1: 0.933; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated i means altogether lips under perfect buildings flowers but they strides was excitement particularly watched affection at opened before vividly nothing did shadow among off when old glass tables without rising never wine gravitation die the speak the don't floor in problem above exploration like into my arm before my hundred later who if said very brother incredulous him
+
+Distinct-1: 0.950; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+among words there is my bare bronze real hands over as we mean and his better slight rescue possibly haggard will evening quartz what think a machine followed then growing in instance like my machine face up with appeared to stone me series dimension as some uncomfortable their happened of appreciate those colourless high light alone upon and warn what
+
+Distinct-1: 0.917; Distinct-2: 1.000.
+
+## LSTM | T=0.5 | Replicate 0
+
+Seed: `i looked around me`
+
+i had seen upon me in the time machine i had started times and the fire and as i was more then i saw a point and the time traveller i was not a real going i had a kind of the night i was no doubt to me in my mind i saw a mind i could see that
+
+Distinct-1: 0.583; Distinct-2: 0.831.
+
+## LSTM | T=0.5 | Replicate 1
+
+Seed: `i looked around me`
+
+at a little people of war and as i was to the soft time machine and fell away i found the time machine i struck a little people to the time machine were not a queer thing to the morlocks and then i felt a little lawn for a few that i had such only a line of a large
+
+Distinct-1: 0.583; Distinct-2: 0.864.
+
+## LSTM | T=0.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and as i could see it the morlocks had been my pocket i remember sitting for a moment i could see the time traveller upon me i could not understand his face and i had seen the little people was in the same way and the intense of the time traveller i could see them again at the machine it
+
+Distinct-1: 0.633; Distinct-2: 0.881.
+
+## LSTM | T=1.0 | Replicate 0
+
+Seed: `i looked around me`
+
+for instance he's they began to have the same across which an times the day man might be upon an more then i pass buildings when and the rest of an was cold of building going and here was only my hands night i clung then i may see you will have at china for this leaves sunlight it may
+
+Distinct-1: 0.783; Distinct-2: 0.983.
+
+## LSTM | T=1.0 | Replicate 1
+
+Seed: `i looked around me`
+
+at a thick thing solid he said to me no impression at soft time i should have see my shoulder and taking off a little open had him to light a rich were she was awakened at last none of me you think it once my neck for times than four great long such only as i did not name
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## LSTM | T=1.0 | Replicate 2
+
+Seed: `i looked around me`
+
+and as larger doing will it the fear of the time faint smiled there could have been heads and he said to the overworlders upon me for as evident had gone the same i had cheerfully what is sufficient round me like a moving world at intense graceful and terror i might may see them again at presentation and it
+
+Distinct-1: 0.800; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 0
+
+Seed: `i looked around me`
+
+for addition he's grew it were reason beginnings outside i sat started times the used in the dusk upon an more then beauty any buildings when and the rest of movements and cold people building going too blank me nevertheless leading cannot night good but the night these noise when my matter at china for this leaves sunlight are that
+
+Distinct-1: 0.883; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 1
+
+Seed: `i looked around me`
+
+at us and it pushed war and as fears no impression at soft time when it fell emotion save into the taking off a little hours had him to sticks circumstances the pipe she a trap account they none right me you think it once my deeper determined times than four great series such only as probably things give subterranean
+
+Distinct-1: 0.883; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and explore larger doing will it the plain guests ultimately forthwith faint smiled entirely his eyes of the edge he humanity to me where upon three points as evident had gone here would eating more particularly sea clambering sufficient round animals like laughing moving shoulder at intense graceful thousands terror i having that filby them jar in spite of it
+
+Distinct-1: 0.950; Distinct-2: 1.000.
+
+## LSTM | T=0.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+with a little people of the first eyes of the time traveller was to be that i had seen the sphinx said the little people i could have been but the time traveller in a vast white time machine and there was a queer triumph of these place i could not know the sun was the time traveller was no
+
+Distinct-1: 0.617; Distinct-2: 0.864.
+
+## LSTM | T=0.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried to me for the time machine i had seen the time traveller and in the last of the little people in this table was very done i had a real of the time traveller i found a little dials of a little people in the big i was a moment i had been a match and then
+
+Distinct-1: 0.517; Distinct-2: 0.831.
+
+## LSTM | T=0.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+and even perhaps the time machine i was very young man and as i had seen a kind of my shoes was so and then i am how to get for a moment i felt that the same age of the time traveller and the world was a gallery of my theory of my mind i did not a second
+
+Distinct-1: 0.650; Distinct-2: 0.949.
+
+## LSTM | T=1.0 | Replicate 0
+
+Seed: `the machine was standing`
+
+with walls for only a true week an air things were very behind and clear enough how with a great or said at least to than these inadequacy in among cut even the in little people there was naturally put my hands towards the white future but we heard their more high upon the thing over the problems of it
+
+Distinct-1: 0.900; Distinct-2: 1.000.
+
+## LSTM | T=1.0 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried down and the new future to assume it is about these so and this spread all no great little group of london orange that hung my fourth interpretation a breathing they were i think against her and in due and how through the time traveller i must have breaking and looked to them pointed to me at
+
+Distinct-1: 0.850; Distinct-2: 1.000.
+
+## LSTM | T=1.0 | Replicate 2
+
+Seed: `the machine was standing`
+
+moves touch perhaps and i had grown no very young but watched its foolish showed you cannot under my last shoes security she indeed for into light i went on nearly a little without in that are as well as i say approaching and side by the you of the light she was my hands most upon me and exclusive
+
+Distinct-1: 0.833; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+we eastward quietly over one's true week an plain abundant were very behind strange overnight among how grew molecule all came said filed to judge than thud inadequacy in among cut even tree in a logical sea its shape good would seemed figure the triumph beyond shone disordered kept off and turned upon their vaguely over known its strength of
+
+Distinct-1: 0.933; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i learnt down and the new blood watched i held out of these would be this spread for no at little group thought london orange weena's vermin done came interpretation a breathing they your species either against years and die due to think through the time horizon i must than breaking and certainly to swung pointed how seemed little
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## LSTM | T=1.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+moves touch perhaps and one increasing though time they of but watched can him showed you now under because that strange security dim indeed though into light put that it must got into without colourless that are five him read close means approaching and side by the you far they my she occurred my grew happened upon a rare started
+
+Distinct-1: 0.850; Distinct-2: 1.000.
+
+## GRU | T=0.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+how and a little i sat upon the world of the time machine and it was too there was the time machine and i could not make that the time traveller i was not too how i went to the time machine and the time traveller and the time traveller in the end and the time traveller had been his
+
+Distinct-1: 0.467; Distinct-2: 0.746.
+
+## GRU | T=0.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated the world of them was a certain man i lit this long time machine and it was a little of them and i felt her when i judged to the rising was the flickering of the morlocks i don't be in a sudden of the little people was the darkness of the little people i felt i had to
+
+Distinct-1: 0.550; Distinct-2: 0.864.
+
+## GRU | T=0.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+so i had been no doubt i went no doubt of the little people in the time machine i saw a queer of all the world but i was not be that i had seen that i had been to me to be that i had been the morlocks of the morlocks and in the morlocks i was it was
+
+Distinct-1: 0.500; Distinct-2: 0.763.
+
+## GRU | T=1.0 | Replicate 0
+
+Seed: `the time traveller was`
+
+animals night a or resemblance in upon dark and gently harsh force of the particularly i were further as the reason sphinx they had been enter such me to remarkable in the same which i fancied at the turf far judge think it was the big thing sphinx twigs a fire it as it was so down i could feel
+
+Distinct-1: 0.783; Distinct-2: 0.983.
+
+## GRU | T=1.0 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated by towards their lips in perfect us to went they were a excitement of all affection at opened before me and did shadow among the when or every tables to rising never of paper and the speak the don't floor in problem is almost like into my arm before my hundred and go if i very our incredulous hand
+
+Distinct-1: 0.850; Distinct-2: 1.000.
+
+## GRU | T=1.0 | Replicate 2
+
+Seed: `the time traveller was`
+
+close words with a less mere bronze of hands over the balance of the sheer better slight that possibly that my eyes and all the machines but too then i remember instance like my machine and up with them cheek stone to series i believe in uncomfortable their sky of appreciate morlocks and high light she seemed to warn the
+
+Distinct-1: 0.800; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 0
+
+Seed: `the time traveller was`
+
+animals night a running resemblance in upon dark themselves gently trees force of across particularly i were further as such reason sphinx they had been enter such sentences the pair foolish or also which going how itself lever however far judge think hours which porcelain imagine increase off twigs a fire it as unknown they would seem seriously great impossible
+
+Distinct-1: 0.917; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 1
+
+Seed: `the time traveller was`
+
+illuminated starving means altogether lips under perfect us went went they strides was excitement particularly watched affection at opened before vividly nothing did shadow first off when or every tables without rising never wine gravitation sexes the speak expectation don't floor fruits problem is exploration lived into my arm before my hundred fallen go if i very our incredulous hand
+
+Distinct-1: 0.950; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 2
+
+Seed: `the time traveller was`
+
+close words with enough my make bronze real hands over a lack aside and his better slight rescue possibly haggard will evening quartz what think a machine followed then growing in instance like my machine section up with appeared cheek stone me series dimension as anticipated uncomfortable their happened of appreciate surrounded colourless high light alone seemed to warn what
+
+Distinct-1: 0.917; Distinct-2: 1.000.
+
+## GRU | T=0.5 | Replicate 0
+
+Seed: `i looked around me`
+
+again i should have been only my head and i sat to be the world in the palace of the more of the thing of my head i will never to be that it was going and then i did not the night of the morlocks and these light in my mind i saw a little thing that i had
+
+Distinct-1: 0.617; Distinct-2: 0.932.
+
+## GRU | T=0.5 | Replicate 1
+
+Seed: `i looked around me`
+
+at the time i pushed the little people in the conditions of the time traveller and fell his hand in the taking of the little people had been a moment was the end of the end was no most i was you to be that my head and i had been done a little people as i was a strange
+
+Distinct-1: 0.550; Distinct-2: 0.831.
+
+## GRU | T=0.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and as i could not it was no doubt to my pocket i was so to be in the little people with the overworlders i had a doubt of my matches the machine i was no doubt i had been to the same of the lever and i was no doubt i may see them in a little people it
+
+Distinct-1: 0.517; Distinct-2: 0.847.
+
+## GRU | T=1.0 | Replicate 0
+
+Seed: `i looked around me`
+
+the thought of grew it yes reason looking have across you know times but the fire the dusk upon an more then beauty any buildings my age i will altogether tell and that my building going i was he's and no doubt night i was no signs of all you will myself at china for this thing sunlight it that
+
+Distinct-1: 0.783; Distinct-2: 0.983.
+
+## GRU | T=1.0 | Replicate 1
+
+Seed: `i looked around me`
+
+at us and it pushed war and there were no impression at soft lower out of iron emotion was the laboratory taking off a little were only him that my circumstances i thought she was me to no most hailstones last you to it simply my head determined for our four o'clock i could only wall probably a longer name
+
+Distinct-1: 0.817; Distinct-2: 1.000.
+
+## GRU | T=1.0 | Replicate 2
+
+Seed: `i looked around me`
+
+and explore larger getting among it the morlocks had been my faint hand there could travelled of the wane he went to the overworlders upon and the unknown evident had gone the same i was particularly the table sufficient round it was i be one to intense graceful and terror i having that see them was a presentation and it
+
+Distinct-1: 0.733; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 0
+
+Seed: `i looked around me`
+
+the addition he's grew it beside reason beginnings psychologist's across sat an times ventilation used in the dusk upon an more then beauty any buildings when and the rest altogether beauty and of survival building going i blank me ages leading cannot night good but the night these noise you staggered the at china killing this leaves sunlight are that
+
+Distinct-1: 0.867; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 1
+
+Seed: `i looked around me`
+
+held promise and it pushed war and else in least all at soft lower smiling absence fell if save disease and taking off myself struck hours had him louder upon them bent pipe she spite me was no none hailstones last dinner to end once my neck determined times than four great revolution such only wall probably things give subterranean
+
+Distinct-1: 0.967; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 2
+
+Seed: `i looked around me`
+
+and explore larger doing among it the plain small ultimately forthwith faint smiled entirely his eyes of the wane he humanity possibility inadequacy hear upon three points unknown evident had his here and eating more band and ancestors sufficient round animals like the moving world animated intense graceful thousands terror proper having words see them jar in presentation and it
+
+Distinct-1: 0.883; Distinct-2: 1.000.
+
+## GRU | T=0.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+of the time machine i felt a sudden of a little of the morlocks i was how to put all the time machine and the other of the time traveller in the mystery in the time traveller and in the end was a small of the world of the time machine i did not it was too that i was
+
+Distinct-1: 0.467; Distinct-2: 0.746.
+
+## GRU | T=0.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried to be a new of the fire i saw the same of the air was the editor of the time traveller and then i am not a little people i was no longer to get i did in the morlocks but i had a time i must have been and the time traveller pointed to the time
+
+Distinct-1: 0.583; Distinct-2: 0.915.
+
+## GRU | T=0.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+of course and the same of the morlocks i felt that the morlocks was the thing was a moment that i had been indeed and the light of the time machine of the time traveller was so as i was not a long and in a step in the thing of the next darkness i tried upon a match i
+
+Distinct-1: 0.517; Distinct-2: 0.881.
+
+## GRU | T=1.0 | Replicate 0
+
+Seed: `the machine was standing`
+
+with a quietly nearest of the method an air morning were looking attention i went a yet grew was all or said the little people than these inadequacy in among the even tree in a face there and in my leisure was towards the white beyond shone tried of their machines and went up it the known and at it
+
+Distinct-1: 0.767; Distinct-2: 1.000.
+
+## GRU | T=1.0 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried down that the new did not i should have been hidden i was this exactly of time at least and a london orange previous vermin my reach interpretation a breathing they were i think against her and in due and how through the time time i must have been come into the time pointed and seemed was
+
+Distinct-1: 0.733; Distinct-2: 0.966.
+
+## GRU | T=1.0 | Replicate 2
+
+Seed: `the machine was standing`
+
+of touch perhaps and one marble though convenient they of matches and can him all the side under it saw strange security on all the white light of that it was secure into without the underworld of the sphinx as the time approaching and side by the you far that my she occurred my grew who might be and started
+
+Distinct-1: 0.733; Distinct-2: 0.983.
+
+## GRU | T=1.5 | Replicate 0
+
+Seed: `the machine was standing`
+
+we walls quietly only one's true type an air abundant were looking behind strange clear among how grew molecule putting or said filed to judge than looking inadequacy in among cut even tree in them grotesque there and gravitation put would may never intellectual without beyond this disordered model off more sentences upon faintness it unreal known it's at it
+
+Distinct-1: 0.933; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 1
+
+Seed: `the machine was standing`
+
+for i tried down that the new houses and i held it about hidden would be this exactly white triumph at little beautiful thought london orange previous strike done futurity interpretation a breathing they throat i think against her men in due and how through the time horizon i must than breaking and certainly to swung pointed how seemed feel
+
+Distinct-1: 0.883; Distinct-2: 1.000.
+
+## GRU | T=1.5 | Replicate 2
+
+Seed: `the machine was standing`
+
+moves touch perhaps and one marble though convenient they of but watched can him showed line vividly under because that strange security dim indeed though into light put that it must got into without the underworld are explorations places read on my approaching and side your the you far they minute's she occurred my grew who upon a rare started
+
+Distinct-1: 0.883; Distinct-2: 1.000.
